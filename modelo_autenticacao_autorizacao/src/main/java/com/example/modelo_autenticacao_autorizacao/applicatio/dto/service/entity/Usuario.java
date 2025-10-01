@@ -1,6 +1,6 @@
 package com.example.modelo_autenticacao_autorizacao.applicatio.dto.service.entity;
 
-import com.example.modelo_autenticacao_autorizacao.enums.Role;
+import com.example.modelo_autenticacao_autorizacao.domain.repository.enums.Role;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

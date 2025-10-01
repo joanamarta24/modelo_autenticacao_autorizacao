@@ -1,7 +1,7 @@
-package com.example.modelo_autenticacao_autorizacao.config;
+package com.example.modelo_autenticacao_autorizacao.infrastructure.config.config;
 
-import com.example.modelo_autenticacao_autorizacao.enums.Role;
-import com.example.modelo_autenticacao_autorizacao.repository.ProfessorRepository;
+import com.example.modelo_autenticacao_autorizacao.domain.repository.enums.Role;
+import com.example.modelo_autenticacao_autorizacao.domain.repository.repository.ProfessorRepository;
 import com.example.modelo_autenticacao_autorizacao.applicatio.dto.service.entity.Professor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;

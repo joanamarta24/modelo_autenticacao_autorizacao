@@ -1,6 +1,6 @@
 package com.example.modelo_autenticacao_autorizacao.applicatio.dto.service.Service;
 
-import dto.ProfessorDTO;
+import com.example.modelo_autenticacao_autorizacao.applicatio.dto.service.dto.ProfessorDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

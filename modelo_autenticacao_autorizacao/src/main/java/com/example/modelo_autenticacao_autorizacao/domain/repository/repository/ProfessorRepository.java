@@ -1,4 +1,4 @@
-package com.example.modelo_autenticacao_autorizacao.repository;
+package com.example.modelo_autenticacao_autorizacao.domain.repository.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,4 +1,4 @@
-package com.example.modelo_autenticacao_autorizacao.config;
+package com.example.modelo_autenticacao_autorizacao.infrastructure.config.config;
 
 
 import org.springframework.context.annotation.Configuration;

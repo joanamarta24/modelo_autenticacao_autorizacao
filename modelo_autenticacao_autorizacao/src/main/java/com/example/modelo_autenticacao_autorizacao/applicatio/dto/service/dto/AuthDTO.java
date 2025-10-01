@@ -1,4 +1,4 @@
-package dto;
+package com.example.modelo_autenticacao_autorizacao.applicatio.dto.service.dto;
 
 public class AuthDTO {
 

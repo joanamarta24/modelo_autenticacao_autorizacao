@@ -1,4 +1,4 @@
-package com.example.modelo_autenticacao_autorizacao.interface_ui.controller;
+package com.example.modelo_autenticacao_autorizacao.domain.repository.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

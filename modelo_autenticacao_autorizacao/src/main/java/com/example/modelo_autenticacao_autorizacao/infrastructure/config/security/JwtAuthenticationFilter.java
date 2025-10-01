@@ -1,4 +1,4 @@
-package com.example.modelo_autenticacao_autorizacao.security;
+package com.example.modelo_autenticacao_autorizacao.infrastructure.config.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

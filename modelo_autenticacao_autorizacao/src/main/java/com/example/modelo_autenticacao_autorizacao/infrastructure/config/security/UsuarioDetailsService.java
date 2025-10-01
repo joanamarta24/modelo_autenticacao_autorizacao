@@ -1,6 +1,6 @@
-package com.example.modelo_autenticacao_autorizacao.security;
+package com.example.modelo_autenticacao_autorizacao.infrastructure.config.security;
 
-import com.example.modelo_autenticacao_autorizacao.repository.UsuarioRepository;
+import com.example.modelo_autenticacao_autorizacao.domain.repository.repository.UsuarioRepository;
 import org.apache.catalina.User;
 import org.springframework.stereotype.Service;
 
